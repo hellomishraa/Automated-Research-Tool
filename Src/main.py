@@ -11,7 +11,7 @@ import os
 
 # Load OpenAI API key from config
 def load_config():
-    with open("config.yaml", "r") as f:
+    with open("../config.yaml", "r") as f:
         return yaml.safe_load(f)
 
 config = load_config()
