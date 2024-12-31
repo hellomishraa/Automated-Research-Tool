@@ -1,0 +1,13 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore config file with API key
+config.yaml
+
+# Ignore FAISS pickle file
+faiss_store_openai.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
