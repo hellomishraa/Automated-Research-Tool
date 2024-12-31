@@ -1,0 +1,9 @@
+streamlit
+langchain
+openai
+faiss-cpu
+pyyaml
+langchain-community
+unstructured
+unstructured[local-inference]
+tiktoken
