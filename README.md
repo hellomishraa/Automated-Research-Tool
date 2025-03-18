@@ -37,9 +37,9 @@ This project is a web-based application designed to automate research on various
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/<your-username>/Haqdarshak.git
+git clone https://github.com/<your-username>/Automated-Research-Tool.git
 
-cd Haqdarshak
+cd Automated-Research-Tool
 ```
 
 ### Step 2: Set Up a Virtual Environment
